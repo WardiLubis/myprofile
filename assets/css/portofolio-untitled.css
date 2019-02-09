@@ -1,0 +1,26 @@
+#vid-sip {
+}
+
+#sip-malang {
+  border:2px solid rgb(31,44,114);
+  border-left:0px;
+  border-right:0px;
+  border-bottom:0px;
+  background-color:rgba(255,255,255,0.21);
+}
+
+#moriae {
+  border:3px solid rgb(32,50,114);
+  border-left:0px;
+  border-right:0px;
+  border-bottom:0px;
+  margin-top:24px;
+  margin-right:30px;
+  margin-left:30px;
+}
+
+#footer {
+  height:121px;
+  width:100%;
+}
+

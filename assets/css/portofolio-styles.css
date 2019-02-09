@@ -1,0 +1,12 @@
+#headline {
+  padding:40px;
+  background-image:url("../../assets/img/IMG_20180228_143008.jpg");
+  background-size:cover;
+  background-color:rgba(182,182,182,0.04);
+  height:392px;
+}
+
+.jumbotron {
+  border-radius:40px;
+}
+
